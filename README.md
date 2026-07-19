@@ -2,11 +2,11 @@
 Analysis of resale trends using PostgreSQL and PowerBI
 Dataset used: https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020
 
-##Skills demonstrated:
+## Skills demonstrated:
 PostgreSQL (Data cleaning and SQL)
 Power BI (Data visualizations
 
-##Workflow
+## Workflow
 1. Import dataset into PostgreSQL into a raw table
 2. Create a clean table and transform the data
 3. Check whether dataset has been imported and cleaned properly
