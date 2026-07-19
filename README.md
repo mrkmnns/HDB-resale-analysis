@@ -27,6 +27,12 @@ Dataset used: https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-p
 - Number of resales by flat type
 - Number of resales by town
 
+## Key findings
+- Resale price increased significantly since 1990, especially during 2000s to 2010s
+- 4 rooms is the most common, followed by 3 rooms and 5 rooms, followed by 3-room and 5-room flats. Executive, 1-room, and Multi-Generation flats appear much less frequently in the resale market.
+- Certain towns have high resale value, suggesting location plays a key part. This can vary from convenience and accessibility to MRT, to accessibility to CBD areas.
+- Towns like Yishun and Tampines contribute largely to the resale records, likely to housing availability and population per town.
+
 ## Repository Structure
 
 - `sql/` - SQL scripts for creating, cleaning, and validating the dataset.
